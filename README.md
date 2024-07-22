@@ -5,9 +5,27 @@
 
 The Synthetic JLTV Data (SJD) is a Python library designed to be your one-stop shop for creating tabular synthetic data. The SDV uses a variety of machine learning algorithms to learn patterns from your real data and emulate them in synthetic data.
 
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Features
 
-🧠** Create synthetic data using machine learning**. The SDV offers multiple models, ranging from classical statistical methods (GaussianCopula) to deep learning methods (CTGAN). Generate data for single tables, multiple connected tables or sequential tables.
+🧠** Render annotations for semantic segmentation, instance segmentation and panoptic segmentation**.
 
 📊 **Evaluate and visualize data**. Compare the synthetic data to the real data against a variety of measures. Diagnose problems and generate a quality report to get more insights.
 
