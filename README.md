@@ -1,25 +1,12 @@
 ![68747470733a2f2f6173736574732e6e75636c657573636c6f75642e636f6d2f6e656f73796e632f646f63732f6e656f73796e632d6865616465722e737667](https://github.com/user-attachments/assets/0039d9d1-94ca-422b-9bcb-226fd052d74a)
+
+
 # BSRG:Bridging the Synthetic-to-Real Gap: Creating Simulated Datasetsfor Domain Adaptation to Enhance Vehicle Detection
 
 
 ## Overview
 
- Oshkosh Defense has supplied over 22,000 Joint Light Tactical Vehicles (JLTVs)[4] to the United States military and allied foreign governments. The JLTV, designed for improved performance, payload, and protection, is a
  
- specialized vehicle not widely available in many countries. Obtaining a comprehensive real-world dataset for JLTV object detection is challenging. However, the existence of the JLTV model in the Unreal Engine marketplace
- 
- provides an opportunity to leverage synthetic data generation. Creating a synthetic JLTV dataset in Unreal Engine allows access to a diverse set of labeled data for training and validating object recognition models. This 
- 
- approach is particularly valuable for rare or specialized objects, overcoming real-world data limitations. After generating the synthetic dataset, a real labeled dataset collected from the Internet and manually annotated 
- 
- using the CVAT[5] tool. This combination of synthetic and real-world data can be useful for domain matching, which is the process of adapting a model trained in one domain (such as synthetic data) to perform well in a 
- 
- different domain (such as real-world data)[6]. By using synthetic and real-world data, you can improve the performance and robustness of your object recognition model. The creation of a synthetic JLTV dataset, combined 
- 
- with real-world data, demonstrates a practical approach to addressing data availability challenges in specialized domains. Researchers and practitioners working on object detection tasks, especially in scenarios with 
- 
- scarce real-world data, can benefit from this methodology 
-
 
 ## Features
 
@@ -31,7 +18,7 @@
 
 ## Introduction
 
-Deep neural network based military vehicle detectors pose particular challenges due to the scarcity of relevant images and limited access to vehicles in this domain. Moreover, Real-world data often poses significant challenges, including privacy, availability, and bias. To mitigate these challenges, synthetic datasets can be leveraged. This article explores the efficacy of synthetic datasets in training state-of-the-art object detection models, specifically focusing on the Joint Light Tactical Vehicle [JLTV](https://oshkoshdefense.com/vehicles/light-tactical-vehicles/jltv/). Using the powerful Unreal Engine, which can create highly realistic scenes, we generated a comprehensive synthetic dataset designed to simulate real-world conditions and enhance the training process for various detection algorithms
+# Oshkosh Defense has supplied over 22,000 Joint Light Tactical Vehicles [JLTV](https://oshkoshdefense.com/vehicles/light-tactical-vehicles/jltv/) to the United States military and allied foreign governments. The JLTV, designed for improved performance, payload, and protection, is a specialized vehicle not widely available in many countries. Obtaining a comprehensive real-world dataset for JLTV object detection is challenging. However, the existence of the JLTV model in the Unreal Engine marketplace provides an opportunity to leverage synthetic data generation. Creating a synthetic JLTV dataset in Unreal Engine allows access to a diverse set of labeled data for training and validating object recognition models. This approach is particularly valuable for rare or specialized objects, overcoming real-world data limitations. After generating the synthetic dataset, a real labeled dataset collected from the Internet and manually annotated using the CVAT[5] tool. This combination of synthetic and real-world data can be useful for domain matching, which is the process of adapting a model trained in one domain (such as synthetic data) to perform well in a different domain (such as real-world data)[6]. By using synthetic and real-world data, you can improve the performance and robustness of your object recognition model. The creation of a synthetic JLTV dataset, combined with real-world data, demonstrates a practical approach to addressing data availability challenges in specialized domains. Researchers and practitioners working on object detection tasks, especially in scenarios with scarce real-world data, can benefit from this methodology.
 
 [JLTV Dataset](https://github.com/behnaz-sadeghigol/sadeghigol/blob/main) is an open-source, developer-first way to anonymize PII, generate synthetic data and sync environments for better testing, debugging and developer experience.
 
