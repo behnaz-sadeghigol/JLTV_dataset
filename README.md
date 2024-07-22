@@ -1,5 +1,5 @@
 # Real and Synthetic JLTV Vehicle Dataset
-<span style="font-family: Georgia, serif;">
+<span style="Times New Roman: Georgia, serif;">
 
 Abstract
 
