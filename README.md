@@ -1,5 +1,8 @@
 ![68747470733a2f2f6173736574732e6e75636c657573636c6f75642e636f6d2f6e656f73796e632f646f63732f6e656f73796e632d6865616465722e737667](https://github.com/user-attachments/assets/0039d9d1-94ca-422b-9bcb-226fd052d74a)
 
+![image](https://github.com/user-attachments/assets/d6fe9113-7fcd-4514-9f04-82961ae2ec26)
+
+
 
 # BSRG:Bridging the Synthetic-to-Real Gap: Creating Simulated Datasetsfor Domain Adaptation to Enhance Vehicle Detection
 
