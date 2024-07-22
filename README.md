@@ -10,3 +10,4 @@ The Synthetic JLTV Data (SJD) is a Python library designed to be your one-stop s
 📊 Evaluate and visualize data. Compare the synthetic data to the real data against a variety of measures. Diagnose problems and generate a quality report to get more insights.
 
 🔄 Preprocess, anonymize and define constraints. Control data processing to improve the quality of synthetic data, choose from different types of anonymization and define business rules in the form of logical constraints.
+This site was built using [GitHub Pages](https://pages.github.com/).
