@@ -5,7 +5,7 @@
 
 
 
-# BSRG:Bridging the Synthetic-to-Real Gap: Creating Simulated Datasetsfor Domain Adaptation to Enhance Vehicle Detection
+# [BSRG:Bridging the Synthetic-to-Real Gap: Creating Simulated Datasetsfor Domain Adaptation to Enhance Vehicle Detection](https://github.com/behnaz-sadeghigol/sadeghigol)
 
 
 ## Overview
@@ -14,7 +14,7 @@
 
 ## Features
 
-🧠** Render annotations for semantic segmentation, instance segmentation and panoptic segmentation**.
+🧠**Render annotations for semantic segmentation, instance segmentation and panoptic segmentation**.
 
 📊 **Evaluate and visualize data**. Compare the synthetic data to the real data against a variety of measures. 
 
@@ -28,7 +28,8 @@
 
 ## Unreal Engine
 
-<p style="font-size:40px; "> **Unreal Engine**, a powerful game engine and simulation platform, proves effective for generating synthetic data using a ‘**Simulation-Based Approach**.’ Its superior ability to create realistic scenes surpasses that of other simulators, making it ideal for producing high-fidelity artificial images. Unreal Engine provides a robust toolkit for developing 3D models, textures, and environments, forming the basis for various synthetic data types, including images, point clouds, and sensor datasets. In our methodology, we harnessed Unreal Engine’s marketplace assets and intricate scenes to construct comprehensive synthetic datasets. Our rendered scenes featured natural landscapes, enhancing the realism of our simulations. Leveraging existing plugins, we achieved automatic and accurate label generation for the synthetic data, streamlining the dataset preparation process. </p>
+<p style="font-size:40px; "> 
+ **Unreal Engine**, a powerful game engine and simulation platform, proves effective for generating synthetic data using a **‘Simulation-Based Approach.’** Its superior ability to create realistic scenes surpasses that of other simulators, making it ideal for producing high-fidelity artificial images. Unreal Engine provides a robust toolkit for developing 3D models, textures, and environments, forming the basis for various synthetic data types, including images, point clouds, and sensor datasets. In our methodology, we harnessed Unreal Engine’s marketplace assets and intricate scenes to construct comprehensive synthetic datasets. Our rendered scenes featured natural landscapes, enhancing the realism of our simulations. Leveraging existing plugins, we achieved automatic and accurate label generation for the synthetic data, streamlining the dataset preparation process. </p>
 
 ## Synthetic Dataset Generation
 
