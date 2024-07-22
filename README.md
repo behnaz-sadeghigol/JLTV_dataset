@@ -5,7 +5,7 @@
 
 
 
-# [BSRG:Bridging the Synthetic-to-Real Gap: Creating Simulated Datasetsfor Domain Adaptation to Enhance Vehicle Detection](https://github.com/behnaz-sadeghigol/sadeghigol)
+# [Creating Simulated Datasetsfor Domain Adaptation to Enhance Vehicle Detection](https://github.com/behnaz-sadeghigol/sadeghigol)
 
 
 ## Overview
@@ -31,10 +31,10 @@
 <p style="font-size:40px; "> 
  **Unreal Engine**, a powerful game engine and simulation platform, proves effective for generating synthetic data using a **‘Simulation-Based Approach.’** Its superior ability to create realistic scenes surpasses that of other simulators, making it ideal for producing high-fidelity artificial images. Unreal Engine provides a robust toolkit for developing 3D models, textures, and environments, forming the basis for various synthetic data types, including images, point clouds, and sensor datasets. In our methodology, we harnessed Unreal Engine’s marketplace assets and intricate scenes to construct comprehensive synthetic datasets. Our rendered scenes featured natural landscapes, enhancing the realism of our simulations. Leveraging existing plugins, we achieved automatic and accurate label generation for the synthetic data, streamlining the dataset preparation process. </p>
 
-## Synthetic Dataset Generation
+## [Synthetic Dataset Generation](https://github.com/behnaz-sadeghigol/sadeghigol/blob/main/datasets.md)
 
 <p style="font-size:40px; "> To create our synthetic dataset, we harnessed the capabilities of Unreal Engine Our process involved meticulously constructing a virtual scene that accurately represented the JLTV military machine. This scene included intricate geometry, realistic materials, and precise lighting conditions.By driving the simulated JLTV across five distinct environments (forest, pasture, mountain, snow, and plain) and rendering on it, we generated a diverse set of synthetic data samples. Our Unreal Engine generated synthetic dataset comprises 3043 samples, with 130 reserved for validation and 2913 for training. </p>
 
-## Real Dataset Collection
+## [Real Dataset Collection](https://github.com/behnaz-sadeghigol/sadeghigol/blob/main/datasets.md)
 
 <p style="font-size:40px; "> To complement our synthetic dataset, we collected a real-world dataset of the JLTV military machine. We crawled the internet to gather 65,634 images of the JLTV from various sources, including online forums, news articles, and manufacturer websites. For annotation, we utilized the CVAT (Computer Vision Annotation Tool) [4], which allowed us to manually label the JLTV objects within the images. This process resulted in a total of 30,212 test samples, 33,682 training samples, and 1,740 validation samples. </p>
