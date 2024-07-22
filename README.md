@@ -1,10 +1,12 @@
 ![68747470733a2f2f6173736574732e6e75636c657573636c6f75642e636f6d2f6e656f73796e632f646f63732f6e656f73796e632d6865616465722e737667](https://github.com/user-attachments/assets/0039d9d1-94ca-422b-9bcb-226fd052d74a)
 # Real and Synthetic JLTV Vehicle Dataset
 
-**Overview**
+##Overview
+
 The Synthetic JLTV Data (SJD) is a Python library designed to be your one-stop shop for creating tabular synthetic data. The SDV uses a variety of machine learning algorithms to learn patterns from your real data and emulate them in synthetic data.
 
-**Features**
+##Features
+
 🧠 Create synthetic data using machine learning. The SDV offers multiple models, ranging from classical statistical methods (GaussianCopula) to deep learning methods (CTGAN). Generate data for single tables, multiple connected tables or sequential tables.
 
 📊 Evaluate and visualize data. Compare the synthetic data to the real data against a variety of measures. Diagnose problems and generate a quality report to get more insights.
