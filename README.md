@@ -6,7 +6,8 @@
 ## Overview
 <p style="font-size:30px; ">To create our synthetic dataset, we harnessed the capabilities of Unreal Engine Our process involved meticulously constructing a virtual scene that accurately represented the JLTV military machine. This scene included intricate geometry, realistic materials, and precise lighting conditions.By driving the simulated JLTV across five distinct environments (forest, pasture, mountain, snow, and plain) and rendering on it, we generated a diverse set of synthetic data samples. Our Unreal Engine generated synthetic dataset comprises 3043 samples, with 130 reserved for validation and 2913 for training. </p>
  
-![image](https://github.com/user-attachments/assets/e42f8112-5212-4e76-b36d-d7ac8ef9bdf8)
+![image](https://github.com/user-attachments/assets/932a970d-aa59-4e4d-8f7f-5dba3ae9cef0)
+
 
 
 ## Features
