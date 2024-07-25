@@ -46,5 +46,6 @@
 
 <p style="font-size:40px; "> Table 1 compares JLTV dataset to other vehicle datasets. Our dataset stands out due to its combination of real-world and synthetic data. We leveraged the powerful Unreal Engine to create highly realistic scenes, simulating real-world conditions. The dataset includes 68,677 annotated samples captured from diverse camera viewpoints. Our JLTV dataset’s high fidelity, diverse viewpoints, and automatic generation annotations make it a valuable resource for advancing object detection technologies. </p>
 
-![image](https://github.com/user-attachments/assets/0034e5d4-b828-471f-b6fa-b618ec3d8f26)
+![image](https://github.com/user-attachments/assets/e9ae4556-51b0-4a85-8069-0f20612ab0c3)
+
 
